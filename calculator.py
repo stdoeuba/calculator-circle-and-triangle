@@ -38,11 +38,3 @@ circlearea = area_of_circle(r)
 
 #print solution to the console
 print("the circle has an area of: " , round(circlearea,2), "cm^2")
-
-
-
-
-
-
-
-
