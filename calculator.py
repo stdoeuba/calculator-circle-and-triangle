@@ -14,7 +14,6 @@ def area (h, b):
 def area_of_circle(r):
     return  r**2 * math.pi
     
-
 #print to console 
 print("this application calculates the area of a triangle:")
 
