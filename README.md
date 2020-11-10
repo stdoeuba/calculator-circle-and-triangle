@@ -3,13 +3,13 @@
 The application simple calculator which calculates the area of an triangle based on its height and base length.
 also calculates the area of a circle for a given radius r.
 
-#Description of Functions
+# Description of Functions
 
 - The function 'area' calculates the area of the triangle with the input parameters given by the user.
 - The function 'area_of_circle' calculates the area oft the circle from the input radius by the user. 
 
 
-#License Declaration
+# License Declaration
 
 Copyright 2020 Dominik euba
 
