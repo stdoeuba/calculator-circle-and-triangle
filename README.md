@@ -1,2 +1,5 @@
 # calculator-circle-and-triangle
-area calculation of circles and triangles
+
+simple calculator which calculates the area of an triangle based on its height and base length.
+also calculates the area of a circle for a given radius r.
+
