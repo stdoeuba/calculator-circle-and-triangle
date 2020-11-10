@@ -11,8 +11,12 @@ def area (h, b):
 print("this application calculates the area of a triangle:")
 
 #user input for height and side length
-h =  float(input('enter height of the triangle in cm. '))
+h =  float(input('enter height of the triangle in cm: '))
 b =  float(input('enter base side of the triangle in cm: '))
 
+#calculating area of the triangle
+trianglearea = area(h,b)
 
+#print solution to the console
+print("the triangle has an area of: " , round(trianglearea,2), "cm^2")
 
