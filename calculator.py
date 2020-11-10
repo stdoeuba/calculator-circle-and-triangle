@@ -3,7 +3,7 @@ Created on Tue Nov 10 12:44:14 2020
 
 @author: Dominik Euba
 """
-    # fucntion for calculating the area of a circle
+
 def area (h, b):
     return (h*b) / 2
 
@@ -18,5 +18,6 @@ b =  float(input('enter base side of the triangle in cm: '))
 trianglearea = area(h,b)
 
 #print solution to the console
-print("the triangle has an area of: " , round(trianglearea,2), "cm^2")
+print("the circle has an area of: " , round(circlearea,2), "cm^2")
 
+
