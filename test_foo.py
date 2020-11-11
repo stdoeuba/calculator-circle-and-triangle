@@ -1,6 +1,6 @@
 
 from foo import foo
-from calculator import area
+#from calculator import area
 
 def test_foo():
 	assert foo(5) == 6
