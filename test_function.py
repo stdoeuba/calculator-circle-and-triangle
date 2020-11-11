@@ -9,8 +9,6 @@ def test_foo():
 from calculator import area
 
 def test_area ():
-h=5
-b=2
-    	assert area(h,b) == 5
+	assert area(h, b) == 5
 	
 
