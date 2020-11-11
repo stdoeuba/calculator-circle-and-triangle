@@ -1,12 +1,12 @@
-import math
-
 # function for calculating the area of a triangle
 def area (h, b):
     return (h*b) / 2
 
+from math import pi
+
 #function that defines an area of a circle
 def area_of_circle(r):
-    return  r**2 * math.pi
+    return  r**2 * pi
     
 #print to console 
 print("this application calculates the area of a triangle: ")
