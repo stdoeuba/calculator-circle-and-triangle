@@ -1,6 +1,6 @@
 
 from foo import foo
-from calculator import area, circle_of_area
+from calculator import area, area_of_circle
 from math import pi
 
 def test_foo():
