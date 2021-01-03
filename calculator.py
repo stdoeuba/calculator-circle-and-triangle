@@ -25,7 +25,7 @@ print("the triangle has an area of: " , round(trianglearea,2), "cm^2")
 print("in the next step this application calculates the area of a circle: ")
 
 #user input for the radius
-r =  float(input('enter radius of the circle in cm: '))
+r = 1  # float(input('enter radius of the circle in cm: '))
 
 #calculating area of the circle
 circlearea = area_of_circle(r)
