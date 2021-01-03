@@ -2,7 +2,7 @@
 from foo import foo
 
 def test_foo():
-	assert foo(5) == 6
+	assert foo(5) == 7
 	
 
 """
